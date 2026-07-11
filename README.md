@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @QueenFancy my user name is comprised of my dogs name 'Queen' and my name 'Fancy'. I'm honoring her since she has passed away this year Jan. 2024
-- 👀 I’m interested in Crystals and minerals 🔮 
-- 🌱 I’m currently learning how to code using python 🐍, learning AWS Cloud Practitioner ☁️ and CompTIA Security+ 🔐 because I have upcoming certification exams
-- 💞️ I’m looking to collaborate on anything that can help grow my skills from Novice to at least intermediate
-- 📫 How to reach me: reach out to me on here!
+Hi, I'm Fancy 👋
+
+Welcome to my GitHub profile!
+
+I'm an IT Support Specialist building my skills in cloud computing, cybersecurity, and systems administration. I'm currently learning AWS Cloud Practitioner and CompTIA Security+ while developing hands-on projects to grow from beginner to intermediate skill levels.
+
+🛠️ Skills & Learning
+IT Support & Troubleshooting
+Networking Fundamentals
+ServiceNow
+SharePoint
+Azure DevOps
+Python (Learning)
+AWS Cloud Practitioner (In Progress)
+CompTIA Security+ (In Progress)
+🚀 Current Goals
+Build hands-on cloud projects
+Create and document IT home labs
+Expand my cybersecurity knowledge
+Collaborate on projects that help me continue growing my technical skills
+💻 Portfolio Projects
+
+Coming soon! I am building projects and documenting my learning journey.
+
+🌱 About Me
+
+My GitHub username, @QueenFancy, honors my beloved dog Queen, who passed away in January 2024. She was a special part of my life and continues to inspire me.
+
+Outside of technology, I enjoy crystals and minerals 🔮, Hello Kitty, Eevee, and attending comic conventions. Fun fact: when I attended my first comic con, people thought my Pomeranian Queen was Eevee!
+
+📫 Feel free to connect with me through GitHub.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love Hello Kitty and Eevee. I went to my first comic con years ago and kids thought my pomeranian Queen was Eevee lol
+
 
 <!---
 QueenFancy/QueenFancy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
